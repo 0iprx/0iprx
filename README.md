@@ -1,87 +1,123 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5500&height=200&section=header&text=Abood%20(%400iprx)&fontSize=50&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20Discord%20Engineer&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="./logo.png" width="140" />
+  <h1>0IPRX : CORE ARCHITECT</h1>
+  <p><b>Advanced Systems Engineering & Forensic Cyber-Security Infrastructure</b></p>
+  
+  <p>
+    <a href="https://0iprx.com"><img src="https://img.shields.io/badge/PLATFORM-d85040?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://discord.com/users/602507284400046080"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://x.com/0iprx"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  </p>
 </div>
+
+---
+
+## 🌌 TECHNICAL MANIFESTO
+I engineer high-integrity digital ecosystems designed for massive scale and absolute security. My methodology focuses on **Hardening the modern web** through advanced forensic analysis, anti-exploit architecture, and low-latency system integration.
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/0iprx">
-    <img src="https://img.shields.io/badge/GitHub-0iprx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discordapp.com/users/0iprx">
-    <img src="https://img.shields.io/badge/Discord-0iprx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:0iprx@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <table>
+    <tr>
+      <td align="center"><b>CYBER DEFENSE</b><br/><img src="https://img.icons8.com/fluency/48/shield.png" width="40"/><br/>Advanced XSS/SQLi Mitigation</td>
+      <td align="center"><b>CORE SYSTEMS</b><br/><img src="https://img.icons8.com/fluency/48/code.png" width="40"/><br/>Scalable Microservices</td>
+      <td align="center"><b>ELITE UI/UX</b><br/><img src="https://img.icons8.com/fluency/48/layers.png" width="40"/><br/>Reactive Glassmorphism</td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+---
 
-## 🌌 About Me
-I am a software architect specializing in **Enterprise Web Platforms** and **Intelligent Discord Systems**. I don't just write code; I engineer scalable, secure, and visually striking digital experiences from the ground up.
+## 🛠️ THE TECHNOLOGICAL ARSENAL
 
-- ⚙️ **Current Focus:** Hardening system security (XSS/SQLi prevention) & dynamic React architectures.
-- 💬 **Ask me about:** React.js, Node.js, Express, Discord API, and UI/UX Glassmorphism.
-- ⚡ **Fun Fact:** I design web applications that look like they belong in a futuristic Network Operations Center.
-
-<br/>
-
-## 🚀 Deployed Enterprise Projects
-
-| Project | Status | Description | Link |
-| :--- | :---: | :--- | :--- |
-| **🛡️ Architect OS** | `Production` | Next-generation educational platform simulating complex infrastructure & pentesting environments. | *[Private Repository]* |
-| **🌐 Muvxn** | `Live` | Secure, high-performance platform featuring advanced forensic logging and dynamic media management. | [muvxn.live](https://muvxn.live) |
-| **⚡ Zerix** | `Live` | Elite project management & team dashboard system with automated Discord synchronization. | [zerix.site](https://zerix.site) |
-
-<br/>
-
-## 🛠️ Arsenal & Tech Stack
-
-### 💻 Languages & Core
+### 💻 Languages & Logical Core
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### ⚛️ Frontend Engineering
+### ⚛️ Frontend & Interface Architecture
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOMPurify-323330?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Architecture
+### ⚙️ Backend & Persistence Systems
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🤖 Discord Bots & Automations
-<p>
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-FF4154?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Security
+### 🛡️ Dev-Ops & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=helmet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+## 🚀 MISSION-CRITICAL DEPLOYMENTS
+
+### 🌐 [Muvxn Platform](https://muvxn.live)
+*Lead Architect & Security Engineer*
+- **Stack:** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Serverless-FF4154?style=flat-square&logo=serverless&logoColor=white" />
+- **Core:** High-concurrency social content and streaming platform with AI-driven analytics.
+
+### ⚡ [HiddenRP Infrastructure](https://hiddenrp.site)
+*System Integration & Database Architect*
+- **Stack:** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/FiveM_API-FF0000?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+- **Core:** Automated Discord-to-FiveM Whitelist bridge with real-time encrypted data synchronization.
+
+### 🤖 [RP System Bots]
+*Lead Automation Developer*
+- **Stack:** <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+- **Core:** Advanced Roleplay server management systems featuring multi-server ban synchronization and security auditing.
+
+### ⚡ [Zerix.site Official Store](https://zerix.site)
+*Full-Stack Developer & Integration Specialist*
+- **Stack:** <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/API_Integration-d85040?style=flat-square&logo=google-chrome&logoColor=white" />
+- **Core:** High-performance official store showcase and automated service delivery gateway.
+
+---
+
+## 📊 ANALYTICAL OVERVIEW
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0iprx&show_icons=true&theme=tokyonight&hide_border=true&title_color=d85040&icon_color=d85040&text_color=ccc&bg_color=1a1a1d" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0iprx&theme=tokyonight&hide_border=true&stroke=d85040&ring=d85040&fire=d85040&background=1a1a1d" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0iprx&layout=compact&theme=tokyonight&hide_border=true&title_color=d85040&text_color=ccc&bg_color=1a1a1d" height="160" />
+</div>
 
 <br/>
 
-## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0iprx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="0iprx's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0iprx&theme=tokyonight&hide_border=true" alt="0iprx's GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=d85040&height=40&section=footer" />
+  <p align="center">
+    <b>SYSTEM STATUS: <img src="https://img.shields.io/badge/OPERATIONAL-d85040?style=flat-square" /></b><br/>
+    <i>"The future of the web is built on resilient architecture."</i>
+  </p>
 </div>
