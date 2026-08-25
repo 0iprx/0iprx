@@ -1,371 +1,328 @@
 <div align="center">
 
-  <!-- ==================== WEBSITE HERO BANNER ==================== -->
-  <a href="https://0iprx.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0a0a0a,25:1f1f2e,50:d85040,75:1a1a2e,100:0a0a0a&height=220&section=header&text=0IPRX.COM&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ADVANCED%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20CYBER%20SECURITY&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="0iprx Header Banner" />
-  </a>
-
-  <!-- ==================== LIVE STATUS BADGE ==================== -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/%E2%97%8F_STATUS-SYSTEMS_OPERATIONAL-00FF66?style=for-the-badge&labelColor=0a0a0a" alt="Live Status" />
-    <a href="https://0iprx.com"><img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-0IPRX.COM-d85040?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="0iprx.com" /></a>
-    <img src="https://img.shields.io/badge/LOCATION-SAUDI_ARABIA_%F0%9F%87%B8%F0%9F%87%A6-006C35?style=for-the-badge&labelColor=0a0a0a" alt="Location" />
-  </p>
-
-  <!-- ==================== WEBSITE NAVIGATION BAR ==================== -->
-  <p align="center">
-    <a href="https://0iprx.com">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-0iprx.com-1e293b?style=flat-square" alt="Portfolio" />
-    </a>
-    <a href="#-flagship-projects--live-web-apps">
-      <img src="https://img.shields.io/badge/%F0%9F%9A%80_PROJECTS-SHOWCASE-1e293b?style=flat-square" alt="Projects" />
-    </a>
-    <a href="#-streamer-portals--creator-hubs">
-      <img src="https://img.shields.io/badge/%F0%9F%93%BA_STREAMERS-LIVE_HUBS-1e293b?style=flat-square" alt="Streamers" />
-    </a>
-    <a href="#-gaming-ecosystem--fivem-infrastructure">
-      <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMING-FIVEM_STACK-1e293b?style=flat-square" alt="Gaming" />
-    </a>
-    <a href="#-technological-arsenal--skills">
-      <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_ARSENAL-TECH_STACK-1e293b?style=flat-square" alt="Tech Stack" />
-    </a>
-    <a href="#-contact--get-in-touch">
-      <img src="https://img.shields.io/badge/%F0%9F%93%AC_CONNECT-DISCORD_%2F_X-1e293b?style=flat-square" alt="Contact" />
-    </a>
-  </p>
-
-  <!-- ==================== SOCIAL GATEWAY ==================== -->
-  <p align="center">
-    <a href="https://0iprx.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-0iprx.com-d85040?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
-    <a href="https://discord.com/users/602507284400046080" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-0iprx-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://x.com/0iprx" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@0iprx-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://github.com/0iprx" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0iprx-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/shield.png" width="42" /><br/>
-        <b>CYBER DEFENSE & RBAC</b><br/>
-        <sub>Anti-Exploit • SQLi/XSS Guard • JWT Auth</sub>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/source-code.png" width="42" /><br/>
-        <b>REAL-TIME SYSTEMS</b><br/>
-        <sub>WebSockets • Low-Latency • Redis Cache</sub>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud-lighting.png" width="42" /><br/>
-        <b>CLOUD ARCHITECTURE</b><br/>
-        <sub>Vercel Edge • Railway • Automated CI/CD</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🚀 Flagship Projects & Live Web Apps
-
-<table>
-  <!-- ROW 1: HARFAK SAH & MUVXN -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/controller.png" width="36" />
-        <br/>
-        <b><font size="4"><a href="https://harfaksah.com">حرفك صح | HarfakSah.com</a></font></b>
-        <br/><br/>
-        <a href="https://harfaksah.com" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%8C%90_LIVE_GAME-VISIT_HARFAKSAH.COM-d85040?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
-      </div>
-      <br/>
-      <b>🎮 منصة ألعاب جماعية تفاعلية فورية فائقة السرعة على الويب:</b>
-      <p>
-        إعادة إحياء وتطوير عصري وتنافسي لألعاب الزمن الجميل (حيوان، نبات، جماد، بلاد، والمزيد) بأحدث تقنيات الويب السحابية. تم تصميم المنصة لتوفر زمن استجابة فائق اللحظية (Sub-second Latency)، مع نظام تصحيح تنافسي ذكي بين اللاعبين ومراجعة جماعية للنتائج ومشاركة الغرف مع الأصدقاء بكل سلاسة وبدون قيود.
-      </p>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/stream.png" width="36" />
-        <br/>
-        <b><font size="4"><a href="https://muvxn.live">Muvxn Hub & Telemetry</a></font></b>
-        <br/><br/>
-        <a href="https://muvxn.live" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%94%A5_CREATOR_HUB-MUVXN.LIVE-00C9FF?style=for-the-badge&logo=kick&logoColor=white" />
-        </a>
-      </div>
-      <br/>
-      <b>⚡ منصة متقدمة لصناع المحتوى والستريمرز مع لوحة تحكم ذكية:</b>
-      <p>
-        منصة رقمية تجمع بين الربط الحي لمنصة Kick وسيرفرات Discord لجلب وتحليل بيانات البث اللحظية (المشاهدات، المتابعين، الكليبات والميمز). تتضمن لوحة تحكم إدارية (Admin Dashboard) متكاملة لإدارة التذاكر وطلبات التقديم مع فلترة ذكية وحماية فائقة ضد ثغرات الحقن (SQLi/XSS).
-      </p>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- ROW 2: ZERIX & STOCK DASHBOARD -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/online-store.png" width="36" />
-        <br/>
-        <b><font size="4"><a href="https://zerix.site">Zerix Solutions & Store</a></font></b>
-        <br/><br/>
-        <a href="https://zerix.site" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_DIGITAL_STORE-ZERIX.SITE-92400e?style=for-the-badge&logo=shopify&logoColor=white" />
-        </a>
-      </div>
-      <br/>
-      <b>🛍️ المتجر والمنصة الرقمية لعرض وطلب الخدمات البرمجية المؤتمتة:</b>
-      <p>
-        منصة تجارة إلكترونية ومعرض احترافي لعرض الحلول البرمجية، البوتات المخصصة، وإدارة سيرفرات الألعاب مع منظومة مؤتمتة لمعالجة الطلبات، ونظام أذونات متطور (Full RBAC Architecture) لحماية العمليات الإدارية.
-      </p>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Full_RBAC-4CAF50?style=flat-square&logo=auth0&logoColor=white" />
-      <img src="https://img.shields.io/badge/Automated_Orders-0055FF?style=flat-square&logo=speedtest&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/line-chart.png" width="36" />
-        <br/>
-        <b><font size="4"><a href="https://github.com/0iprx/Real-Time-Stock-Analysis-Dashboard">Real-Time Stock Dashboard</a></font></b>
-        <br/><br/>
-        <a href="https://github.com/0iprx/Real-Time-Stock-Analysis-Dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%93%88_SOURCE_CODE-GITHUB_REPO-24292e?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-      <br/>
-      <b>📈 لوحة تحليلات مالية ومؤشرات بيانية للأسهم لحظة بلحظة:</b>
-      <p>
-        تطبيق ويب فائق الأداء لمعالجة وتصور بيانات الأسهم اللحظية، ومراقبة تقلبات السوق ورسم الرسوم البيانية التفاعلية باستخدام TypeScript الكامل لضمان أعلى معايير الـ Type Safety وسرعة الاستجابة.
-      </p>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Financial_Charts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📺 Streamer Portals & Creator Hubs
-منصات وبوابات رقمية مخصصة ومصممة بدقة للستريمرز وصناع المحتوى لعرض حالة البث اللحظية، الشات التفاعلي، سجل الداعمين، وحسابات التواصل:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>gene4al</b><br/>
-        <a href="https://gene4al.live"><code>gene4al.live ↗</code></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>ioyazeed</b><br/>
-        <a href="https://ioyazeed.live"><code>ioyazeed.live ↗</code></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>idior</b><br/>
-        <a href="https://idior.live"><code>idior.live ↗</code></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>labdullahh</b><br/>
-        <a href="https://labdullahh.live"><code>labdullahh.live ↗</code></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>abuhamad0</b><br/>
-        <a href="https://abuhamad0.com"><code>abuhamad0.com ↗</code></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/48/video-conference.png" width="32" /><br/>
-        <b>muvxn</b><br/>
-        <a href="https://muvxn.live"><code>muvxn.live ↗</code></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎮 Gaming Ecosystem & FiveM Infrastructure
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="left">
-        <b>🎯 Ultimate Fight Telemetry</b><br/>
-        <sub>موقع تعريفي وبوت متصل مباشرة عبر CFX API لجلب عدد اللاعبين المتصلين لحظياً وحالة السيرفر العامة.</sub><br/>
-        <img src="https://img.shields.io/badge/CFX_API-Live_Telemetry-orange?style=flat-square" />
-      </td>
-      <td width="33%" align="left">
-        <b>🔐 HiddenRP Auto-Whitelist</b><br/>
-        <sub>ربط ذكي بين Discord و FiveM يمنح الرتب والتصاريح فورياً مع قواعد بيانات MySQL مشفرة بـ AES-256.</sub><br/>
-        <img src="https://img.shields.io/badge/FiveM-Auto_Whitelist-green?style=flat-square" />
-      </td>
-      <td width="33%" align="left">
-        <b>🛡️ Revenge Town & 6a6RP</b><br/>
-        <sub>منظومة رصد نقاط الإدارة، تقييم المشرفين، التذاكر المؤتمتة، والتوثيق الأمني الشامل.</sub><br/>
-        <img src="https://img.shields.io/badge/Automation-Staff_RBAC-blue?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤖 Enterprise Discord Bots & Automation
-
-<table>
-  <tr>
-    <td width="25%"><b>🏥 Clinic & Consultation Bot</b></td>
-    <td>بوت مؤتمت لإدارة وتنسيق الجلسات الاستشارية والمواعيد مع تشفير تام وخصوصية مطلقة لسجلات الأعضاء.</td>
-  </tr>
-  <tr>
-    <td width="25%"><b>🎫 Smart Ticket Engine</b></td>
-    <td>نظام تذاكر احترافي مع شاردينغ الأقسام وتوجيه المشرفين وتصدير سجلات المحادثة HTML Transcripts.</td>
-  </tr>
-  <tr>
-    <td width="25%"><b>🛡️ Audit & Security Logs Bot</b></td>
-    <td>رصد وتوثيق أمني لحظي لجميع أحداث السيرفر (تعديل الرتب، حذف الرسائل، الصلاحيات، وحركات الأعضاء).</td>
-  </tr>
-  <tr>
-    <td width="25%"><b>💡 Interactive Suggestions Bot</b></td>
-    <td>استقبال مقترحات المجتمع مع نظام تصويت تفاعلي لحظي بالأزرار وتتبع آلي لحالة الاقتراح.</td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Technological Arsenal & Skills
-
-<div align="center">
-
-  <!-- Visual Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,py,html,css,tailwind,mysql,redis,git,github,githubactions,vercel,postman" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Categorized Badges with Official Logos -->
-  <table>
-    <tr>
-      <td align="right"><b>Languages & Core:</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>Frontend & UI:</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>Data & Real-Time:</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>Cloud & DevOps:</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>Security & Auth:</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/RBAC_Architecture-4CAF50?style=flat-square&logo=auth0&logoColor=white" />
-        <img src="https://img.shields.io/badge/Resend_OTP_2FA-000000?style=flat-square&logo=resend&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burp_Suite_Basics-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anti_XSS_%26_SQLi-E53935?style=flat-square&logo=shield&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-## 📊 Live Telemetry & GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0iprx&show_icons=true&theme=tokyonight&hide_border=true&title_color=d85040&icon_color=d85040&text_color=999999&bg_color=0a0a0a" height="165" alt="0iprx's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0iprx&theme=tokyonight&hide_border=true&stroke=d85040&ring=d85040&fire=d85040&background=0a0a0a" height="165" alt="0iprx's Github Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0iprx&layout=compact&theme=tokyonight&hide_border=true&title_color=d85040&text_color=999999&bg_color=0a0a0a" height="145" alt="Top Languages" />
-</div>
-
----
-
-## 📬 Contact & Get In Touch
-
-<div align="center">
-  <p>هل لديك فكرة مشروع، استفسار تقني، أو ترغب ببناء نظام ويب أو بوت مخصص؟ تواصل معي مباشرة عبر القنوات الرسمية:</p>
-
-  <p>
-    <a href="https://0iprx.com" target="_blank">
-      <img src="https://img.shields.io/badge/Visit%20Portfolio-0iprx.com-d85040?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://discord.com/users/602507284400046080" target="_blank">
-      <img src="https://img.shields.io/badge/Direct%20Message-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://x.com/0iprx" target="_blank">
-      <img src="https://img.shields.io/badge/Follow-Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-  </p>
-
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a2e,50:d85040,100:0a0a0a&height=90&section=footer" width="100%" />
+  <!-- Main Logo -->
+  <img src="./logo.png" width="130" alt="0iprx Logo" />
+  
+  <h1>0IPRX : CORE ARCHITECT</h1>
   
   <p>
+    <b>Advanced Systems Engineering • Real-Time Web Platforms • Forensic Cyber Defense</b>
+  </p>
+
+  <p>
+    <a href="https://0iprx.com"><img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-0iprx.com-d85040?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://discord.com/users/602507284400046080"><img src="https://img.shields.io/badge/DISCORD-0iprx-161b22?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://x.com/0iprx"><img src="https://img.shields.io/badge/TWITTER-@0iprx-161b22?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://github.com/0iprx"><img src="https://img.shields.io/badge/GITHUB-0iprx-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
+  <!-- Section Quick Links -->
+  <p>
+    <a href="#-flagship-platforms--products"><code>[ Featured Projects ]</code></a> •
+    <a href="#-streamer-portals--creator-networks"><code>[ Streamer Hubs ]</code></a> •
+    <a href="#-gaming-infrastructure--fivem-systems"><code>[ Game Systems ]</code></a> •
+    <a href="#-enterprise-discord-automation"><code>[ Discord Bots ]</code></a> •
+    <a href="#-the-technological-arsenal"><code>[ Tech Stack ]</code></a> •
+    <a href="#-get-in-touch"><code>[ Contact ]</code></a>
+  </p>
+
+</div>
+
+---
+
+## 🌌 Core Methodology
+> *"Engineering high-integrity digital ecosystems, low-latency real-time applications, and resilient cloud architectures with precision and security hardening."*
+
+Specialized in building scalable full-stack web platforms, real-time multiplayer engines, creator telemetry hubs, secure RBAC infrastructures, and enterprise Discord ecosystems.
+
+---
+
+## 🚀 Flagship Platforms & Products
+
+<table>
+  <!-- HARFAK SAH -->
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <img src="./projects-logos/harfaksah.png" width="95" alt="Harfak Sah Logo" /><br/><br/>
+      <a href="https://harfaksah.com"><img src="https://img.shields.io/badge/LIVE_PLATFORM-d85040?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="78%" valign="top">
+      <h3>🎮 <a href="https://harfaksah.com">حرفك صح | HarfakSah.com</a></h3>
+      <p>
+        <b>منصة ألعاب جماعية تفاعلية فورية فائقة السرعة على الويب:</b><br/>
+        إعادة إحياء وتطوير عصري وتنافسي لألعاب الزمن الجميل (حيوان، نبات، جماد، بلاد، والمزيد) بأحدث تقنيات الويب السحابية. تتميز بزمن استجابة فائق اللحظية (Sub-second Latency)، ونظام تصحيح تنافسي ذكي بين اللاعبين ومراجعة جماعية للنتائج ومشاركة الغرف مع الأصدقاء بكل سلاسة وبدون قيود.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-161b22?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-161b22?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_Edge-161b22?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/High_Concurrency-161b22?style=flat-square&logo=speedtest&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- MUVXN -->
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <img src="./projects-logos/muvxn.webp" width="95" alt="Muvxn Logo" /><br/><br/>
+      <a href="https://muvxn.live"><img src="https://img.shields.io/badge/LIVE_PLATFORM-d85040?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="78%" valign="top">
+      <h3>⚡ <a href="https://muvxn.live">Muvxn Hub & Telemetry</a></h3>
+      <p>
+        <b>بوابة رقمية متقدمة لصناع المحتوى والستريمرز مع لوحة تحكم ذكية:</b><br/>
+        منصة تجمع بين الربط اللحظي لمنصة Kick وسيرفرات Discord لجلب وتحليل بيانات البث الحي (المشاهدات، المتابعين، الكليبات والميمز). تتضمن لوحة تحكم إدارية (Admin Dashboard) متكاملة لإدارة التذاكر وطلبات التقديم مع فلترة ذكية وحماية ضد ثغرات الحقن.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-161b22?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express_API-161b22?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis_Cache-161b22?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL_Cluster-161b22?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kick_%26_Discord_Sync-161b22?style=flat-square&logo=kick&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- ZERIX -->
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <img src="./projects-logos/zerix.png" width="95" alt="Zerix Logo" /><br/><br/>
+      <a href="https://zerix.site"><img src="https://img.shields.io/badge/LIVE_STORE-d85040?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="78%" valign="top">
+      <h3>🛍️ <a href="https://zerix.site">Zerix Solutions & Store</a></h3>
+      <p>
+        <b>المتجر والمنصة الرقمية لعرض وطلب الخدمات البرمجية والحلول المؤتمتة:</b><br/>
+        منصة تجارة إلكترونية وبوابة متخصصة لعرض الحلول والأنظمة البرمجية، البوتات المخصصة، وحلول السيرفرات مع منظومة مؤتمتة لمعالجة وإدارة طلبات العملاء، ونظام أذونات متطور (Full RBAC) لحماية العمليات الإدارية.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-161b22?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full_RBAC-161b22?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automated_Orders-161b22?style=flat-square&logo=speedtest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_Cloud-161b22?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- STOCK DASHBOARD -->
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/TS-TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
+      <a href="https://github.com/0iprx/Real-Time-Stock-Analysis-Dashboard"><img src="https://img.shields.io/badge/SOURCE_CODE-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="78%" valign="top">
+      <h3>📈 <a href="https://github.com/0iprx/Real-Time-Stock-Analysis-Dashboard">Real-Time Stock Analysis Dashboard</a></h3>
+      <p>
+        <b>لوحة تحليلات مالية ورسوم بيانية للأسهم لحظة بلحظة:</b><br/>
+        تطبيق ويب عالي الأداء لمعالجة وتصور بيانات الأسهم اللحظية، ومراقبة تقلبات السوق ورسم المؤشرات البيانية التفاعلية باستخدام TypeScript لضمان أعلى معايير الـ Type Safety وسرعة الاستجابة.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Real--Time_Feeds-161b22?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Financial_Charts-161b22?style=flat-square&logo=chartdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-161b22?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📺 Streamer Portals & Creator Networks
+بوابات رقمية مخصصة ومصممة بدقة لصناع المحتوى لعرض حالة البث المباشر، الشات التفاعلي، سجل الداعمين، وتكامل Botrix:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./projects-logos/gene4al.png" width="70" alt="gene4al" /><br/>
+        <b>gene4al</b><br/>
+        <a href="https://gene4al.live"><img src="https://img.shields.io/badge/gene4al.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="./projects-logos/ioyazeed.webp" width="70" alt="ioyazeed" /><br/>
+        <b>ioyazeed</b><br/>
+        <a href="https://ioyazeed.live"><img src="https://img.shields.io/badge/ioyazeed.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="./projects-logos/idior.svg" width="70" alt="idior" /><br/>
+        <b>idior</b><br/>
+        <a href="https://idior.live"><img src="https://img.shields.io/badge/idior.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./projects-logos/labdullahh.webp" width="70" alt="labdullahh" /><br/>
+        <b>labdullahh</b><br/>
+        <a href="https://labdullahh.live"><img src="https://img.shields.io/badge/labdullahh.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="./projects-logos/abuhamad0.png" width="70" alt="abuhamad0" /><br/>
+        <b>abuhamad0</b><br/>
+        <a href="https://abuhamad0.com"><img src="https://img.shields.io/badge/abuhamad0.com-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="./projects-logos/muvxn.webp" width="70" alt="muvxn" /><br/>
+        <b>muvxn</b><br/>
+        <a href="https://muvxn.live"><img src="https://img.shields.io/badge/muvxn.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎮 Gaming Infrastructure & FiveM Systems
+
+<table>
+  <tr>
+    <td width="18%" align="center">
+      <img src="./projects-logos/ultimate-fight.png" width="75" alt="Ultimate Fight" /><br/>
+      <a href="https://ultimate-fight-sxi6r9.cranl.net/"><img src="https://img.shields.io/badge/VIEW_HUB-161b22?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="82%">
+      <b>Ultimate Fight | CFX Live Telemetry</b><br/>
+      موقع تعريفي وبوت متطور مربوط مباشرة عبر CFX API لجلب عدد اللاعبين المتصلين لحظياً، وحالة السيرفر وإحصائياته العامة.<br/>
+      <code>CFX API</code> <code>React.js</code> <code>Discord.js</code> <code>Live Telemetry</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" align="center">
+      <img src="./projects-logos/hiddenrp.png" width="75" alt="HiddenRP" /><br/>
+      <a href="https://hiddenrp.site"><img src="https://img.shields.io/badge/VIEW_PORTAL-161b22?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </td>
+    <td width="82%">
+      <b>HiddenRP & Hidden Empire | Auto-Whitelist Bridge</b><br/>
+      نظام ربط متكامل بين ديسكورد وسيرفرات FiveM مع نظام Whitelist تلقائي يمنح الرتب والصلاحيات اللحظية، وتشفير بيانات اللاعبين بقواعد MySQL المتزامنة.<br/>
+      <code>FiveM API</code> <code>MySQL AES-256</code> <code>Express Backend</code> <code>Auto-Whitelist</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" align="center">
+      <img src="https://img.shields.io/badge/FiveM-Automation-161b22?style=for-the-badge&logo=fivem&logoColor=white" />
+    </td>
+    <td width="82%">
+      <b>Revenge Town & 6a6RP Systems</b><br/>
+      منظومة أتمتة إدارية شاملة: رصد نقاط الإدارة، مراقبة وتقييم المشرفين، تذاكر الدعم الفني، الترحيب التلقائي، والتوثيق الأمني للعمليات.<br/>
+      <code>Discord.js</code> <code>Staff RBAC Analytics</code> <code>MySQL Cluster</code> <code>Audit Pipelines</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Enterprise Discord Automation
+
+<table>
+  <tr>
+    <td width="28%"><b>🏥 Clinic & Consultation Bot</b></td>
+    <td>بوت ديسكورد مبتكر ومؤتمت لإدارة وتنسيق الجلسات الاستشارية والمواعيد مع تشفير تام وخصوصية مطلقة لسجلات الأعضاء.</td>
+  </tr>
+  <tr>
+    <td width="28%"><b>🎫 Smart Support Ticket Engine</b></td>
+    <td>بوت ديسكورد احترافي لإدارة تذاكر الدعم والشكاوى، توزيع الطلبات على المشرفين، وتصدير كامل لسجلات المحادثة HTML Transcripts.</td>
+  </tr>
+  <tr>
+    <td width="28%"><b>🛡️ Security & Audit Logging Bot</b></td>
+    <td>رصد لحظي وتوثيق أمني لجميع أحداث السيرفر (تعديل الرتب، حذف الرسائل، الصلاحيات، وحركات الأعضاء).</td>
+  </tr>
+  <tr>
+    <td width="28%"><b>💡 Interactive Suggestions Bot</b></td>
+    <td>استقبال مقترحات المجتمع مع نظام تصويت تفاعلي لحظي بالأزرار وتتبع آلي لدورة حياة الاقتراح.</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ The Technological Arsenal
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="right" width="22%"><b>Languages & Core</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Frontend & UI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React_18-161b22?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite_5-161b22?style=for-the-badge&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=for-the-badge&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Data & Real-Time</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL_Cluster-161b22?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis_In--Memory-161b22?style=for-the-badge&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-161b22?style=for-the-badge&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-161b22?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>DevOps & Cloud</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Vercel_Edge-161b22?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Railway_Cloud-161b22?style=for-the-badge&logo=railway&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Security & Auth</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Full_RBAC_Architecture-161b22?style=for-the-badge&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resend_OTP_2FA-161b22?style=for-the-badge&logo=resend&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp_Suite_Basics-161b22?style=for-the-badge&logo=portswigger&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anti_XSS_%26_SQLi-161b22?style=for-the-badge&logo=shield&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 📊 Telemetry & GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0iprx&show_icons=true&theme=tokyonight&hide_border=true&title_color=d85040&icon_color=d85040&text_color=999999&bg_color=0a0a0a" height="165" alt="0iprx Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0iprx&theme=tokyonight&hide_border=true&stroke=d85040&ring=d85040&fire=d85040&background=0a0a0a" height="165" alt="0iprx Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0iprx&layout=compact&theme=tokyonight&hide_border=true&title_color=d85040&text_color=999999&bg_color=0a0a0a" height="145" alt="0iprx Languages" />
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+  <p><b>هل لديك فكرة مشروع، استفسار تقني، أو ترغب ببناء نظام ويب أو بوت مخصص؟ تواصل معي مباشرة:</b></p>
+
+  <p>
+    <a href="https://0iprx.com" target="_blank">
+      <img src="https://img.shields.io/badge/VISIT_WEBSITE-0iprx.com-d85040?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://discord.com/users/602507284400046080" target="_blank">
+      <img src="https://img.shields.io/badge/DISCORD_DM-0iprx-161b22?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://x.com/0iprx" target="_blank">
+      <img src="https://img.shields.io/badge/TWITTER-@0iprx-161b22?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
     <b>Designed & Engineered by <a href="https://0iprx.com">0iprx (Abdullah)</a></b><br/>
-    <i>"Crafting high-performance digital experiences & resilient systems."</i>
+    <i>"Software systems built with passion and precision."</i>
   </p>
 </div>
