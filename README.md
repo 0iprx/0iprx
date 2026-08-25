@@ -147,9 +147,9 @@ Specialized in building scalable full-stack web platforms, real-time multiplayer
         <a href="https://ioyazeed.live"><img src="https://img.shields.io/badge/ioyazeed.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
       </td>
       <td align="center" width="33%">
-        <img src="./projects-logos/idior.svg" width="70" alt="idior" /><br/>
-        <b>idior</b><br/>
-        <a href="https://idior.live"><img src="https://img.shields.io/badge/idior.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <img src="./projects-logos/idior.svg" width="70" alt="idiori" /><br/>
+        <b>idiori</b><br/>
+        <a href="https://idiori.live"><img src="https://img.shields.io/badge/idiori.live-d85040?style=flat-square&logo=googlechrome&logoColor=white" /></a>
       </td>
     </tr>
     <tr>
