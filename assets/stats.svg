@@ -1,0 +1,23 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d85040; }
+    .stat-label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .stat-value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; }
+    .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" height="99%" width="99%" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="38" class="header">0iprx | System Telemetry &amp; Metrics</text>
+  <line x1="25" y1="52" x2="470" y2="52" stroke="#30363d" />
+  
+  <text x="25" y="85" class="stat-label">System Architecture</text>
+  <text x="220" y="85" class="stat-value">Full-Stack &amp; Real-Time Systems</text>
+  
+  <text x="25" y="115" class="stat-label">Core Runtime</text>
+  <text x="220" y="115" class="stat-value">Node.js / TypeScript / React 18</text>
+  
+  <text x="25" y="145" class="stat-label">Security &amp; Auth</text>
+  <text x="220" y="145" class="stat-value">Full RBAC / Anti-SQLi &amp; XSS</text>
+  
+  <text x="25" y="175" class="stat-label">Network &amp; Deployment</text>
+  <text x="220" y="175" class="stat-value">WebSockets / Vercel / Railway</text>
+</svg>
